@@ -5,3 +5,4 @@
   * Boxing
   * MMA
   * Tennis
+* Automotive enthusiast
