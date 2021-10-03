@@ -1,6 +1,7 @@
 * Computer technology
-* Computer programming:
-  * HTML5
-  * CSS, SCSS
-  * PHP
-  * JAVA, jQuery, JavaScript
+* Computer programming
+* Sports:
+  * Football
+  * Boxing
+  * MMA
+  * Tennis
