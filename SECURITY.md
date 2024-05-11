@@ -1,5 +1,5 @@
 # Security Policy
-:poland-flag:
+
 ## Supported Versions
 
 |    ⏬   |   ⏬   |
