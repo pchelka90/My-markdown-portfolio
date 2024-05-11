@@ -1,5 +1,5 @@
 # Security Policy
-🇵🇱
+:poland:
 ## Supported Versions
 
 |    ⏬   |   ⏬   |
