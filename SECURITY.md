@@ -3,6 +3,7 @@
 ## Supported Versions
 
 |   ⏬   |   ⏬   |
+ ------------------
 |🇵🇱 1.0.0 |   ☑️   |
 
 ## Reporting a Vulnerability
