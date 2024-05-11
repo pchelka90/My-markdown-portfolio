@@ -2,11 +2,8 @@
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
-
-| Version | Supported |
-| ------- | ----------|
-| 1.0.0   | :x:       |
+|   ⏬   |   ⏬   |
+|🇵🇱 1.0.0 |   ☑️   |
 
 ## Reporting a Vulnerability
+For now there is no any vulnerability. If you find one please contribute with me or make branch to commit with fixed vulnerability.
